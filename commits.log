@@ -1,0 +1,80 @@
+commit 8c7237fe2dd9a47de07f0cc940c417a6f936e29d
+Merge: def5338 93d4afc
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:47:23 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio - mergesolved
+
+commit def5338230300dc3ea4919da98c124ddd2af08b6
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:40:31 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 93d4afcb24f159faa693284d91943b22472a1943
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:40:31 2024 -0600
+
+    Agregando estaciones del año
+
+commit b3b70f57703e1674f50c7605e31c57e75daa3223
+Merge: 813815b b5e30fc
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:37:21 2024 -0600
+
+    Merge clonfict solved
+
+commit b5e30fce8d405f293fb9480b80ac548b131a6fcb
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:34:55 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 813815b065652091c40f1e82073ea23ce2ae5caf
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 16:32:31 2024 -0600
+
+    Agregando style.css al index.html
+
+commit 9e893a0f40557739b3f8a0baf754b8b386268f66
+Merge: cf33caf 2d29ca8
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:33:30 2024 -0600
+
+    Merge branch 'js'
+
+commit 2d29ca830ab2a8732700d121826237e2efd9b1ac
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:29:50 2024 -0600
+
+    Index.js created
+
+commit cf33cafda983df7234f78ff74f9a468cbef29ed0
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:27:39 2024 -0600
+
+    added style
+
+commit abed597b3bbe4c44bb3f66e28c8a5323ee2767ff
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:26:08 2024 -0600
+
+    prueba file
+
+commit fa1e2319d159a7fcb27821650572bc3a1f44a1c1
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:25:15 2024 -0600
+
+    Creating index.html
+
+commit 5a19d093ac7054e12898412c4b95caa25c4bb13e
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:18:06 2024 -0600
+
+    Ignorando archivos .exe
+
+commit 16cd7d7561d4bbf1e27357b1207dcb48a21e308c
+Author: sergio-rolon <rolonsergio30@gmail.com>
+Date:   Wed Nov 13 14:12:28 2024 -0600
+
+    first commit

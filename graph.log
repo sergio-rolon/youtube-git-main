@@ -1,0 +1,19 @@
+*   8c7237f Agregando estaciones del año con fecha de inicio - mergesolved
+|\  
+| * 93d4afc Agregando estaciones del año
+* | def5338 Agregando estaciones del año con fecha de inicio
+|/  
+*   b3b70f5 Merge clonfict solved
+|\  
+| * b5e30fc Agregando index.js al index.html
+* | 813815b Agregando style.css al index.html
+|/  
+*   9e893a0 Merge branch 'js'
+|\  
+| * 2d29ca8 Index.js created
+* | cf33caf added style
+* | abed597 prueba file
+* | fa1e231 Creating index.html
+|/  
+* 5a19d09 Ignorando archivos .exe
+* 16cd7d7 first commit
